@@ -12,7 +12,7 @@ import {
 } from "@mui/material";
 import React from "react";
 import { User } from "../../interfaces/User";
-import FunctionComparation from './FunctionComparation'
+// import FunctionComparation from './FunctionComparation'
 
 interface Props {
   users: User[];
